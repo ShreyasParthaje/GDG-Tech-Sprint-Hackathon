@@ -6,3 +6,5 @@ The students can vote for meals from the client side app.
 
 https://drive.google.com/drive/folders/1rPXnIZGsuiu9WL792pM7pSMR-opOeJ5E?usp=sharing
 
+NOTE: Some features haven't been implemented since this is an MVP
+
