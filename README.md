@@ -4,4 +4,5 @@ Hostel manager is a collection of two apps, one for the students and one for adm
 The admin app is responsible for creating and viewing demands of meals.
 The students can vote for meals from the client side app.
 
-(Drive link for both apps)[https://drive.google.com/drive/folders/1rPXnIZGsuiu9WL792pM7pSMR-opOeJ5E?usp=sharing]
+https://drive.google.com/drive/folders/1rPXnIZGsuiu9WL792pM7pSMR-opOeJ5E?usp=sharing
+
