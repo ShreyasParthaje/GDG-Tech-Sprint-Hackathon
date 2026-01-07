@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "232278809894",
+    "firebase_url": "https://hostel-manager-2d6ff-default-rtdb.firebaseio.com",
+    "project_id": "hostel-manager-2d6ff",
+    "storage_bucket": "hostel-manager-2d6ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232278809894:android:3d0e5b388f6f659ebff5e7",
+        "android_client_info": {
+          "package_name": "com.hostelmanager.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXO88dlSgxt0oOUMYRZ55IZMJtRJyH_7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232278809894:android:d00a0b50fe77c125bff5e7",
+        "android_client_info": {
+          "package_name": "com.hostelmanager.client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXO88dlSgxt0oOUMYRZ55IZMJtRJyH_7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
